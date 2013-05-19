@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arbiters Stuff</string>
+    <string name="btnSend">Send</string>
+	<string name="btnStart">Start ASyncTask</string>
+	<string name="btnTest">Open Gizmodo</string>
+	<string name="btnTest1">Get Window Title</string>
+	<string name="textStatus">Status Stuff</string>
+	<string name="menu_settings">Settings</string>
+	<string name="urlText">Enter URL</string>
+	<string name="submitText">Submit</string>
+</resources>
